@@ -1,0 +1,10 @@
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\bin\Debug\GroupF2FLaboratory.exe.config
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\bin\Debug\GroupF2FLaboratory.exe
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\bin\Debug\GroupF2FLaboratory.pdb
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\obj\Debug\GroupF2FLaboratory.csproj.AssemblyReference.cache
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\obj\Debug\GroupF2FLaboratory.Form1.resources
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\obj\Debug\GroupF2FLaboratory.Properties.Resources.resources
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\obj\Debug\GroupF2FLaboratory.csproj.GenerateResource.cache
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\obj\Debug\GroupF2FLaboratory.csproj.CoreCompileInputs.cache
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\obj\Debug\GroupF2FLaboratory.exe
+D:\Kianna\Programming\EDP\Lego\GroupF2FLaboratory\GroupF2FLaboratory\obj\Debug\GroupF2FLaboratory.pdb
